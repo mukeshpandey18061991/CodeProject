@@ -1,0 +1,18 @@
+<section>
+	<center>
+		<h5>Welcome To Java Index</h5>
+	</center>
+	<hr>
+<div style="margin-left: 10px;">
+<p style="text-align: center;"><a href="index" style="color: darkred;"><b>Home:Learned By Theories </a> /JAVA</b> </p>
+
+
+
+<p><strong><h6>CONTENT:</h6></strong> </p>
+
+
+<p style="color: darkred;"><b><u>Introduction</u></b>:</p>
+
+</div>
+
+</section>
